@@ -1,8 +1,7 @@
-#  MCTs at INCF
-MATLAB community toolboxes (MCTs) at International Neuroinformatics Coordinating Facility (INCF) 
+# Welcome to MCTs at INCF👋 
 
 ## About 
-MCTs are open-source MATLAB codebases providing structured functionality. This GitHub organization hosts new or orphaned MCTs with potential for broad usage. It is the primary activity of an INCF* [working group](https://www.incf.org/sig/incfmathworks-working-group-early-stage-matlab-community-toolboxes) sponsored by the MATLAB Community Toolbox program. The central contribution of this organization is to host these community resources.   
+MATLAB community toolboxes (MCTs) are open-source MATLAB codebases providing structured functionality. This GitHub organization (org) hosts **new or orphaned MCTs with potential for broad usage**. This org is the primary activity of an INCF* [working group](https://www.incf.org/sig/incfmathworks-working-group-early-stage-matlab-community-toolboxes) sponsored by the MATLAB Community Toolbox program.   
 <sub>*INCF: [International Neuroinformatics Coordinating Facility](https://www.incf.org/)</sub>
 
 ## TBD
