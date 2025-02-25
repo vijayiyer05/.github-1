@@ -27,7 +27,7 @@ The Working Group (and this organization) are sponsored by the MATLAB Community 
 | [Brain Observatory Toolbox](https://github.com/MATLAB-Community-Toolboxes-at-INCF/Brain-Observatory-Toolbox) | ➡️ | 👷🏼‍♀️| [Waltham Data Science](https://github.com/stevewds)|  | 🌕 | 🌗 |
 | DeepInterpolation-MATLAB | 🐣 | 🚧 | [Waltham Data Science](https://github.com/stevewds)| | | |
 | Neuropixels Toolkit |🐣|⛔|  [Waltham Data Science](https://github.com/stevewds)| | |
-| OpenNeuro-MATLAB |🐣|⛔| [Tibor Auer PhD|https://github.com/tiborauer] | | |
+| OpenNeuro-MATLAB |🐣|⛔| [Tibor Auer PhD](https://github.com/tiborauer) | | |
 
 ## Notable Repository Alumni 
 \<COMING SOON\> 
