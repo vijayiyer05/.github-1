@@ -15,7 +15,7 @@ The Working Group (and this organization) are sponsored by the MATLAB Community 
 | --- | --- | --- | 
 | 1 | [MCTs-at-INCF-Template](https://github.com/MATLAB-Community-Toolboxes-at-INCF/MCT-template) | Minimalist [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) with replicable  core files suited for most repositories | 
 | 2 | [Example-Driven Development](https://blogs.mathworks.com/matlab/2024/05/01/leading-by-example-how-lively-examples-help-matlab-community-toolboxes-grow-their-capabilities-communities/) | One or more live script examples that demo/teach/exercise key toolbox workflows  | 
-| 3 | [MathWorks Toolbox Best Practices (adapted)]([https://github.com/mathworks/toolboxdesign](https://github.com/MATLAB-Community-Toolboxes-at-INCF/toolboxdesign)) | Community-adapted version of MathWorks-authored [repository](https://github.com/MATLAB-Community-Toolboxes-at-INCF/toolboxdesign) describing development-oriented best practices for toolbox organization, packaging, and more | 
+| 3 | [MathWorks Toolbox Best Practices (adapted)](https://github.com/MATLAB-Community-Toolboxes-at-INCF/toolboxdesign) | Community-adapted version of MathWorks-authored [repository](https://github.com/mathworks/toolboxdesign) describing development-oriented best practices for toolbox organization, packaging, and more | 
 
 ## Repository Summary
 **Types**: 🐣=New ➡️=Transitional  
